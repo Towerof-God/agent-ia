@@ -1,1 +1,7 @@
-
+{
+  "name": "agent-ia",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
